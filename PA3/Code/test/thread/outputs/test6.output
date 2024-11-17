@@ -1,0 +1,71 @@
+Thread 1 created four threads
+Thread 2 created two threads
+Thread 2 sleeping for 1 second
+Thread 3 created two threads
+Thread 3 sleeping for 1 second
+Thread 4: 0
+Thread 5: 0
+Thread 6: 0
+Thread 7: 0
+Thread 8: 200
+Thread 9: 200
+Thread 10: 200
+Thread 11: 200
+Thread 4: 1
+Thread 5: 1
+Thread 6: 1
+Thread 7: 1
+Thread 8: 201
+Thread 9: 201
+Thread 10: 201
+Thread 11: 201
+Thread 4: 2
+Thread 5: 2
+Thread 6: 2
+Thread 7: 2
+Thread 8: 202
+Thread 9: 202
+Thread 10: 202
+Thread 11: 202
+Thread 4: 3
+Thread 5: 3
+Thread 6: 3
+Thread 7: 3
+Thread 8: 203
+Thread 9: 203
+Thread 10: 203
+Thread 11: 203
+Thread 4: 4
+Thread 5: 4
+Thread 6: 4
+Thread 7: 4
+Thread 8: 204
+Thread 9: 204
+Thread 2 woke up
+Thread 10: 204
+Thread 11: 204
+Thread 3 woke up
+Thread 8: 205
+Thread 9: 205
+Thread 10: 205
+Thread 11: 205
+Thread 1 joined four threads
+Thread 8: 206
+Thread 9: 206
+Thread 10: 206
+Thread 11: 206
+Thread 8: 207
+Thread 9: 207
+Thread 10: 207
+Thread 11: 207
+Thread 8: 208
+Thread 9: 208
+Thread 10: 208
+Thread 11: 208
+Thread 8: 209
+Thread 9: 209
+Thread 10: 209
+Thread 11: 209
+Thread 2 joined two threads
+Thread 3 joined two threads
+Main thread exiting

@@ -1,0 +1,13 @@
+Thread 1 trying to acquire mutex
+Thread 1 acquired mutex
+Thread 1 yielding
+Thread 2 trying to acquire mutex
+Thread 3 trying to acquire mutex
+Thread 4 trying to acquire mutex
+Value of test_val: 1 in thread 1
+Thread 2 acquired mutex
+Thread 2 yielding
+Value of test_val: 2 in thread 2
+Thread 3 acquired mutex
+Thread 3 exiting without releasing mutex
+Main thread exiting

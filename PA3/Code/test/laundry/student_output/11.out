@@ -1,0 +1,32 @@
+the value of n = 2 : m = 10 
+Customer 1 got in line
+Customer 1 starting washing their clothes
+Customer 2 got in line
+Customer 2 starting washing their clothes
+Customer 3 got in line
+Customer 4 got in line
+Customer 5 got in line
+Customer 6 got in line
+Customer 7 got in line
+Customer 8 got in line
+Customer 9 got in line
+Customer 10 got in line
+Customer 1 finished washing their clothes
+Customer 2 finished washing their clothes
+Customer 3 starting washing their clothes
+Customer 4 starting washing their clothes
+Customer 4 finished washing their clothes
+Customer 3 finished washing their clothes
+Customer 5 starting washing their clothes
+Customer 6 starting washing their clothes
+Customer 6 finished washing their clothes
+Customer 5 finished washing their clothes
+Customer 7 starting washing their clothes
+Customer 7 finished washing their clothes
+Customer 8 starting washing their clothes
+Customer 9 starting washing their clothes
+Customer 8 finished washing their clothes
+Customer 10 starting washing their clothes
+Customer 9 finished washing their clothes
+Customer 10 finished washing their clothes
+All customers have left.

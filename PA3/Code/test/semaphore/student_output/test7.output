@@ -1,0 +1,18 @@
+Thread 1 trying to acquire semaphore1
+Thread 1 acquired semaphore1
+Thread 1 releasing semaphore1
+Thread 1 trying to acquire semaphore2
+Thread 1 acquired semaphore2
+Thread 1 releasing semaphore2
+Value of test_val: 2 in thread 1
+Thread 2 trying to acquire semaphore1
+Thread 2 acquired semaphore1
+Thread 2 releasing semaphore1
+Thread 2 trying to acquire semaphore2
+Thread 2 acquired semaphore2
+Thread 2 releasing semaphore2
+Thread 2 trying to acquire semaphore1 (nested)
+Thread 2 acquired semaphore1 (nested)
+Thread 2 releasing semaphore1 (nested)
+Value of test_val: 5 in thread 2
+Main thread exiting

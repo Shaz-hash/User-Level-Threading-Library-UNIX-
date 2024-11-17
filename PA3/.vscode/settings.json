@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "util.h": "c",
+    "time_control.h": "c",
+    "jmpbuf-offsets.h": "c",
+    "queue.h": "c",
+    "stdio.h": "c"
+  }
+}

@@ -1,0 +1,41 @@
+Thread 1 trying to acquire mutex
+Thread 1 acquired mutex
+Thread 2 trying to acquire mutex
+Thread 3 trying to acquire mutex
+Thread 4 trying to acquire mutex
+Thread 5 trying to acquire mutex
+Thread 6 trying to acquire mutex
+Thread 7 trying to acquire mutex
+Thread 8 trying to acquire mutex
+Thread 9 trying to acquire mutex
+Thread 10 trying to acquire mutex
+Thread 1 releasing mutex
+Value of test_val: 1 in thread 1
+Thread 2 acquired mutex
+Thread 2 releasing mutex
+Value of test_val: 2 in thread 2
+Thread 3 acquired mutex
+Thread 3 releasing mutex
+Value of test_val: 3 in thread 3
+Thread 4 acquired mutex
+Thread 4 releasing mutex
+Value of test_val: 4 in thread 4
+Thread 5 acquired mutex
+Thread 5 releasing mutex
+Value of test_val: 4 in thread 5
+Thread 6 acquired mutex
+Thread 6 releasing mutex
+Value of test_val: 4 in thread 6
+Thread 7 acquired mutex
+Thread 7 releasing mutex
+Value of test_val: 4 in thread 7
+Thread 8 acquired mutex
+Thread 8 releasing mutex
+Value of test_val: 4 in thread 8
+Thread 9 acquired mutex
+Thread 9 releasing mutex
+Value of test_val: 4 in thread 9
+Thread 10 acquired mutex
+Thread 10 releasing mutex
+Value of test_val: 4 in thread 10
+Main thread exiting

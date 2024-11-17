@@ -1,0 +1,25 @@
+Thread 1 created four threads
+Thread 2 sleeping for 1 second
+Thread 3: 0
+Thread 4: 0
+Thread 5: 0
+Thread 6: 0
+Thread 3: 1
+Thread 4: 1
+Thread 5: 1
+Thread 6: 1
+Thread 3: 2
+Thread 4: 2
+Thread 5: 2
+Thread 6: 2
+Thread 3: 3
+Thread 4: 3
+Thread 5: 3
+Thread 6: 3
+Thread 3: 4
+Thread 4: 4
+Thread 5: 4
+Thread 6: 4
+Thread 1 joined four threads
+Thread 2 woke up
+Main thread exiting

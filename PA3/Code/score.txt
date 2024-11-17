@@ -1,0 +1,8 @@
+Score: 85.0
+
+============ Scoring Breakdown ============
+Thread: 50
+Mutex: 7.5
+Semaphore: 12.5
+Doctor: 0
+Laundry: 15.0
